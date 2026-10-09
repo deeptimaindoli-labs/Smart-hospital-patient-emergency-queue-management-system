@@ -1,1 +1,0 @@
-# Smart-hospital-patient-emergency-queue-management-system
